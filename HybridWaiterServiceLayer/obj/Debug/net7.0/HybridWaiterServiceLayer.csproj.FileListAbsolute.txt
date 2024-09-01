@@ -1,0 +1,15 @@
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\bin\Debug\net7.0\HybridWaiterServiceLayer.deps.json
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\bin\Debug\net7.0\HybridWaiterServiceLayer.dll
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\bin\Debug\net7.0\HybridWaiterServiceLayer.pdb
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.csproj.AssemblyReference.cache
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.AssemblyInfoInputs.cache
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.AssemblyInfo.cs
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.dll
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\refint\HybridWaiterServiceLayer.dll
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.pdb
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\ref\HybridWaiterServiceLayer.dll
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\bin\Debug\net7.0\HybridWaiterDataLayer.dll
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\bin\Debug\net7.0\HybridWaiterDataLayer.pdb
+C:\Users\hussein\source\repos\HybridWaiter\HybridWaiterServiceLayer\obj\Debug\net7.0\HybridWaiterServiceLayer.csproj.CopyComplete

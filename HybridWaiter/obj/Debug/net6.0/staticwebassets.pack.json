@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\2.jpg",
+      "PackagePath": "staticwebassets\\Media\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\7up.jpg",
+      "PackagePath": "staticwebassets\\Media\\7up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\BigMac.jpg",
+      "PackagePath": "staticwebassets\\Media\\BigMac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Burgers.jpg",
+      "PackagePath": "staticwebassets\\Media\\Burgers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Cashier.jpg",
+      "PackagePath": "staticwebassets\\Media\\Cashier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\CheeseBurger.jpg",
+      "PackagePath": "staticwebassets\\Media\\CheeseBurger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\CheesePizza.jpg",
+      "PackagePath": "staticwebassets\\Media\\CheesePizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Chef.jpg",
+      "PackagePath": "staticwebassets\\Media\\Chef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\ClassicBurger.jpg",
+      "PackagePath": "staticwebassets\\Media\\ClassicBurger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Crew.jpg",
+      "PackagePath": "staticwebassets\\Media\\Crew.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\CrispyBurger.jpg",
+      "PackagePath": "staticwebassets\\Media\\CrispyBurger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\DoubleCheese.jpg",
+      "PackagePath": "staticwebassets\\Media\\DoubleCheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\FiletFish.jpg",
+      "PackagePath": "staticwebassets\\Media\\FiletFish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Fries.jpg",
+      "PackagePath": "staticwebassets\\Media\\Fries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Manager.jpg",
+      "PackagePath": "staticwebassets\\Media\\Manager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Pepperoni.jpg",
+      "PackagePath": "staticwebassets\\Media\\Pepperoni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Pepsi.jpg",
+      "PackagePath": "staticwebassets\\Media\\Pepsi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Rim.jpg",
+      "PackagePath": "staticwebassets\\Media\\Rim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Salad.jpg",
+      "PackagePath": "staticwebassets\\Media\\Salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Sparkling.jpg",
+      "PackagePath": "staticwebassets\\Media\\Sparkling.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\SpecialPizza.jpg",
+      "PackagePath": "staticwebassets\\Media\\SpecialPizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\VegeterianPizza.jpg",
+      "PackagePath": "staticwebassets\\Media\\VegeterianPizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\Waiter.jpg",
+      "PackagePath": "staticwebassets\\Media\\Waiter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\about-1.jpg",
+      "PackagePath": "staticwebassets\\Media\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Media\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\about-3.jpg",
+      "PackagePath": "staticwebassets\\Media\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\about-4.jpg",
+      "PackagePath": "staticwebassets\\Media\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\banner_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\banner_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\Media\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\border.png",
+      "PackagePath": "staticwebassets\\Media\\border.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\border_Ctop.png",
+      "PackagePath": "staticwebassets\\Media\\border_Ctop.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\border_footer.png",
+      "PackagePath": "staticwebassets\\Media\\border_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\border_hwork.png",
+      "PackagePath": "staticwebassets\\Media\\border_hwork.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\border_making.png",
+      "PackagePath": "staticwebassets\\Media\\border_making.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\bt_border.png",
+      "PackagePath": "staticwebassets\\Media\\bt_border.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\bt_hoverborder.png",
+      "PackagePath": "staticwebassets\\Media\\bt_hoverborder.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\card_img.png",
+      "PackagePath": "staticwebassets\\Media\\card_img.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\cart1.png",
+      "PackagePath": "staticwebassets\\Media\\cart1.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\cart_1.png",
+      "PackagePath": "staticwebassets\\Media\\cart_1.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\cart_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\cart_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\cheesy-pizza.png",
+      "PackagePath": "staticwebassets\\Media\\cheesy-pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\client_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\client_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\copyright_border.png",
+      "PackagePath": "staticwebassets\\Media\\copyright_border.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\divider_login.png",
+      "PackagePath": "staticwebassets\\Media\\divider_login.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\f_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\f_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\f_border.png",
+      "PackagePath": "staticwebassets\\Media\\f_border.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\favicon.ico",
+      "PackagePath": "staticwebassets\\Media\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\footer_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\footer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\gray_Hborder.png",
+      "PackagePath": "staticwebassets\\Media\\gray_Hborder.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\gray_Vborder.png",
+      "PackagePath": "staticwebassets\\Media\\gray_Vborder.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\h_img1.png",
+      "PackagePath": "staticwebassets\\Media\\h_img1.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\h_img2.png",
+      "PackagePath": "staticwebassets\\Media\\h_img2.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\h_img3.png",
+      "PackagePath": "staticwebassets\\Media\\h_img3.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\hero.png",
+      "PackagePath": "staticwebassets\\Media\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\hover_Vbg.png",
+      "PackagePath": "staticwebassets\\Media\\hover_Vbg.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\hover_bg.png",
+      "PackagePath": "staticwebassets\\Media\\hover_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\inner_banner.jpg",
+      "PackagePath": "staticwebassets\\Media\\inner_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\logo.png",
+      "PackagePath": "staticwebassets\\Media\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\logoBlack.png",
+      "PackagePath": "staticwebassets\\Media\\logoBlack.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\map_border.png",
+      "PackagePath": "staticwebassets\\Media\\map_border.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\Media\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\order_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\order_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\p_bg.jpg",
+      "PackagePath": "staticwebassets\\Media\\p_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img1.jpg",
+      "PackagePath": "staticwebassets\\Media\\pizza_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img2.jpg",
+      "PackagePath": "staticwebassets\\Media\\pizza_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img3.jpg",
+      "PackagePath": "staticwebassets\\Media\\pizza_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img4.jpg",
+      "PackagePath": "staticwebassets\\Media\\pizza_img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img5.png",
+      "PackagePath": "staticwebassets\\Media\\pizza_img5.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pizza_img6.jpg",
+      "PackagePath": "staticwebassets\\Media\\pizza_img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pro_img1.jpg",
+      "PackagePath": "staticwebassets\\Media\\pro_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pro_img2.jpg",
+      "PackagePath": "staticwebassets\\Media\\pro_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pro_img3.jpg",
+      "PackagePath": "staticwebassets\\Media\\pro_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pro_img4.jpg",
+      "PackagePath": "staticwebassets\\Media\\pro_img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\pro_img5.jpg",
+      "PackagePath": "staticwebassets\\Media\\pro_img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\sprit.png",
+      "PackagePath": "staticwebassets\\Media\\sprit.png"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Media\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Media\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Media\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Media\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Media\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Media\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Media\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hussein\\source\\repos\\shalhoub-hsen\\FinalApiCalls\\HybridWaiter\\wwwroot\\Media\\video.jpg",
+      "PackagePath": "staticwebassets\\Media\\video.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HybridWaiterAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HybridWaiterAPI.props",
+      "PackagePath": "build\\HybridWaiterAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HybridWaiterAPI.props",
+      "PackagePath": "buildMultiTargeting\\HybridWaiterAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HybridWaiterAPI.props",
+      "PackagePath": "buildTransitive\\HybridWaiterAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
